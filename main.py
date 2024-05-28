@@ -2,8 +2,9 @@ import scipy
 import click
 import numpy as np
 
-from utils import *
 from tqdm import tqdm
+from utils.ode import ODE
+from utils.misc import vis
 from functools import partial
 
 @click.command()
