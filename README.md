@@ -4,7 +4,7 @@
 
 # Overview
 
-This repository contains Python code for solving and visualization Ordinary Differential Equations (ODEs) curvatures as formulated by Karras et al. [[1]('https://arxiv.org/abs/2011.13456')] for 1D distributions, such as Gaussian mixtures. Also this code enables guidance in a limited interval explored by Kynkäänniemi et al. [[2](https://arxiv.org/abs/2404.07724)].
+This repository contains Python code for solving and visualizing Ordinary Differential Equations (ODEs) curvatures as formulated by Karras et al. [[1]('https://arxiv.org/abs/2011.13456')] for 1D distributions, such as Gaussian mixtures. Also this code enables guidance in a limited interval explored by Kynkäänniemi et al. [[2](https://arxiv.org/abs/2404.07724)].
 
 
 The “probability flow” Ordinary Differential Equation:
